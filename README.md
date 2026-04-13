@@ -20,4 +20,4 @@
   * *Solution*: Pivoted to utilizing GitHub's web interface for repository management to ensure project delivery and documentation accuracy despite hardware limitations.
 
 ### Final Link
-GitHub Repository: [Masukkan URL Repositori Anda di Sini]
+GitHub Repository: (https://github.com/reffymuqrizie/setup-completion/edit/main/README.md)
