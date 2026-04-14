@@ -1,14 +1,662 @@
-# YouTube Research: How to Rank for High Intent B2B Keywords
+# YouTube Research: SaaS SEO is About to Change in 2026
 **Source:** Sam Dunning
-**Video Link:** https://www.youtube.com/watch?v=m9iaJNJE2-M
+**Video Link:** https://www.youtube.com/watch?v=N4rOtRnm--0
 
 ## Introduction
-Sam Dunning explains how B2B SaaS companies can find "hidden" keywords that sales teams hear every day but SEO tools often miss.
+Sam Dunning debunks the myth that "SEO is dead" due to AI. He uses data to show that Google still dominates search traffic (93% market share) but explains how B2B SaaS must adapt to the rise of AI Overviews and Answer Engine Optimization (AEO).
 
 ## Key Insights
-* **The "Zero Search Volume" Opportunity:** Target keywords that tools say have 0 volume but customers actually ask about.
-* **Problem-Led Content:** Focus on answering specific technical issues rather than broad topics.
-* **Conversion-Focus:** Every video must have a clear "Next Step" like a free audit or a specific landing page.
+* **The Stability of Search:** Contrary to headlines, organic traffic is only down 2.5% year-on-year. Google still handles 14 billion searches daily—373 times more than ChatGPT.
+* **Informational vs. Commercial Intent:** AI Overviews (SGE) mostly impact "Top of Funnel" (ToFu) informational queries (e.g., "What is Y?"). High-intent "Bottom of Funnel" (BoFu) queries remain resilient and drive the most qualified leads.
+* **Branded Search is the New Conversion:** Many users now do 100% of their research within AI tools (ChatGPT/Perplexity) and only visit the website when they are ready to buy. This causes "Direct" and "Branded Search" traffic to spike while "Educational" clicks might drop.
+* **The "Listicle" Advantage:** AI search engines love pulling data from list-based articles (e.g., "Best Proposal Software"). Controlling these narratives on your own site is the best way to get cited by LLMs.
+* **Search Everywhere Optimization:** Success in 2026 requires being mentioned on external niche sites, Reddit threads, and podcasts, as these are the primary "grounding" sources for AI answers.
 
-## Full Transcript
-What if you can automate your marketing team with AI agents and just have content on autopilot? I know it sounds like it's out of the future, and I was skeptical, too. But I had Mr. Vibe Marketing on the pot again to break down and share his entire NAND workflow with how to create content on autopilot that actually gets likes and comments. So, uh, you know, in this episode, he gives away all the sauce. Um, then at the end, he actually gives away, uh, all his prompts and his template for doing it. God bless him. Uh, like this video right now on YouTube. Comment because this is, uh, an incredible episode where you'll learn how to become a vibe marketer and start automating and running your business on autopilot. Enjoy the episode. It'spping time, baby. We got the boring marketer, Mr. Vibe Marketing, back on the podcast. He's going to teach us a workflow today. What are we going to learn? Uh, today we're going to learn some basics of how to use inadin. We're going to find some data around a niche or a topic. We're going to feed that into some really smart LLMs and then we're going to produce some content and even automatically publish it on a platform. So, you're going to see an endto-end automation that hopefully is going to save you somewhere around 10 to 15 hours a week. And is it really going to save me 10 to 15 hours a week or you just saying that it's saving me time? So, in this use case, I'm going to show you a LinkedIn workflow. I spend most of my time on X and I actually hate creating content for LinkedIn. So, uh, you know, as much as I can use AI to help me with that process, I I try to do that. And, uh, we'll see. We'll see how it works. Okay. And if I actually use this workflow, what is the potential outcome of that? Like, why why do why should I I even care about this? Yeah, the outcome is that you're going to be able to test content angles, hooks, and topics way faster. So instead of like going getting a subpar result just from opening up Claude or Chat GPT, this is going to get a lot of context, a lot of information, and it's going to create top performing content based off of that. It's even going to create an image for you, and it's going to post automatically. Now, often times AI isn't quite there to just push a button and go end to end and post for you. Uh, I recommend doing that to test things out. I've heard you talk about this a little bit, too. Sometimes you'll throw out a tweet, you'll see if it catches or you'll even use like maybe a secret account and then you'll delete it. So I'll do the same thing. I've been doing that actually for the past couple hours on LinkedIn. So you'll be able to test, you'll be able to refine, but I threw in a step here so that if you want, you can uh actually edit the content before you before you put it live as well. All right, let's rock. All right, so I have this colorcoded here so that we can separate this out in stages. And again, I want to try to give people some actionable tips so that they can go and build a workflow. And I'm also going to give away the code for this workflow so that people can go and download it after they watch the show. They can upload it into inate and have a really nice starting template to go and make their own. So, uh, let's dig right in. So basically what I have here is a whole area that's going to analyze YouTube and X for different topics. So what I will do is open up a chat down at the bottom of the screen here if you see that. And all I need to do actually is I just need to enter in a topic. So we're talking about inadin today. I post some content on that as well. So let's just put in. So, it takes that keyword essentially and now what it's doing is it's going over to YouTube and it's scraping the top videos on YouTube for my topic. So, it's going out there and finding, you know, 20 to 30 videos that have a high degree of engagement. It's also doing the same thing on X. It's actually going to my account. It's looking for posts around workflow automation and AI. So right now it's uh it's processing this and what it's going to do after it finds YouTube videos and posts on X about NADN is it's going to actually watch all the videos and transcribe those for me. So I'm going to have all the content from the top YouTube videos around NAN and then I'm going to have a number of topics from X as well. And you're using Appify, right? I'm using Appify. Yeah. So Appify uh is an awesome platform. Basically, if you want to go and scrape anything on the internet, you want to scrape Instagram, you want to scrape Amazon, you want to scrape Tik Tok, you want to scrape YouTube or X, uh they have like open sort of APIs that you can access within Appify and plug them into your workflow to go and process that data. So that's what these HTTP requests are. Basically, they're just calling that ampify API. Uh, and in this one, I picked a YouTube one and have a couple instructions in there. And then this one, I have one for X as well. Okay, so it's scraping right now. And then what it's going to do is it's going to put all this data together in essentially one big text block. So, it's going to have a bunch of transcribed YouTube videos with the hooks, the titles, the content, and it's going to have some exposts as well. So, it's going to bring all those together and merge them into basically one big block of text. So, this is kind of my research phase here. I'm just kind of going out and I'm making sure I have enough context to go and feed my LLMs in the next step. So, whatever niche go ahead, which by the way, this is the step that any savvy content creator is going to take when they're creating content, right? They're they're going to see what else is out there. uh how are people positioning it and where's my opportunity? Yeah, that's right. And you know to do this research manually like you would have to spend like 24/7 online uh if you want to unplug and actually have a life it makes sense to have like robots and AI doing this stuff for you. So yeah, I mean like instead of you know starting from scratch or or whatever, go and find things that are already performing and you know doing that for content that's similar to doing things like trying to create a startup idea or something like that too. You know you want to find things that are already working so you can sort of sort of shortcut that and take those learnings and make it your own. Okay. So after we get uh all of this data from YouTube and X, we're going to do another step here. So, we've got this big block of text that includes all that video information and stuff. And now I have an agent, and this is a content idea generator, and it plugs into an open AI LLM. And what it's going to do is it's going to go and look at that big block of text. It's doing it right now, and it's going to scan through there, and it's going to find fresh angles and content ideas for us, uh, that aren't just replicating what we researched. So, I don't want to go and just like copy people's content. I just want to use that as inspiration and then come up with my own ideas. So, that's what this step right here is doing. And when you say come up with your own ideas, you mean AI coming up with the ideas for you. Yeah, that's right. So, in here, that's right. To be clear, you don't want to do anything. You want to set up the workflow. Yes. And hang out on the beach. In true Vibe Marketer fashion, that's exactly what I'm doing. Yeah. So, I have a prompt in here. I'm just saying like using all of this content that I'm giving you, create a list of actionable content ideas that are strictly related to marketing. So, if you remember my my keyword that I entered in the chat was inate. Now, that could include a lot of stuff. It could include things on like automating email replies or sales tasks or whatever. So, I want to look at those, but then I want to extract ideas for marketing for how I can kind of repurpose that and come up with some fresh angles. So, here um you know, for a title, I want it to be short and clear when it comes up with a content idea. I want to have a scroll stopping idea for my hook to pull people in. And then, um I want it to suggest like the optimal format for this content. And then it needs to come up with an angle as well. So it needs to have like a unique point of view around how marketers can scale their efforts using AI and leveraging NAD uh for their workflows. Um few other instructions. So avoid like too much technical jargon and technical topics. I'm kind of framing like who this content is for uh for the AI to come up with some ideas for my audience specifically. and uh you know it's kind of going through and it's also looking at sort of my top performing exposts so that it can identify how I'm talking uh what sort of themes I'm using and stuff like that. So combining all this is going to give us a really powerful data set to go and create the right type of content for my audience. And did you come up with this yourself? Yeah, like all these prompts and stuff. Yeah. Yeah. So, I'll come up with like, you know, an initial prompt and then I'll take it and I'll go over to like chat GPT or Manis or Claude and I'll say, "Hey, improve this prompt. Here's what I want to achieve." And then I'll place in like some examples of content that I want this entire workflow to kind of create. So, this goes back to like, you know, two two things that I always talk about with AI. It's like know what questions to ask and know what good looks like. So if you have sort of a baseline prompt, you can go and use AI to improve your prompt, which is a step that I often use for all of these different types of agent nodes. Here it did that. Looks like it uh came up with the ideas in the background. And then once I have the ideas, you know, something that often resonates on social is having some specific like facts, trends, and sources to back up the claims. I also don't want the model to completely like hallucinate and just come up with like random stuff that doesn't make any sense. So in this step, I have a research agent and I'm using perplexity here to go out and find some use cases that people have actually talked about with some real stats. I'm identifying some trends and insights, marketing use cases, ideas that are happening in the industry, stats, frameworks or case studies that we can reference, popular opinions. So, I'm just getting as much data as I can around these marketing angles with workflow automation and AI so that I can feed them into my content agent. Makes sense. I mean, I I I'm just so excited to see what the output is going to be. Like if this actually could do what it says it could do, then this is like a billiondoll workflow. Yeah. And there's also some startup like concepts we can talk around about this for how to like leverage it to create businesses. I think that this is like an interesting backbone to like you know power a consulting business or a freelancing business or really optimize you know agency operations or something like that as well. All right. So uh one note here on the research agent another helpful tool to call out is open router. So often times in a workflow I try to use the best LLM or the best model for each specific task. So for research I've got like you know uh perplexity right here. I've got open AI over here. I've got Claude over here later in the workflow that we'll look at. But open router allows me to access all of these models with one node. So if you open it up, you can see that I've got perplexity sonar uh selected here. But if I wanted to use any other model, you can just select them from this interface rather than going to like clawed and getting an API key or perplexity and getting an open or and getting a an API key. This makes it a lot easier to integrate these models when you actually build these things out. And it's one price, right? Yeah, one price. Uh here it is. It's just, you know, one thing that you subscribe to and then you can access all the different models in a really easy to use way. And and just to be clear, we're not involved in Appify, Open Router, NADN. We're just showing you how to use the tools. Yep. Yep. So after it sort of identifies the ideas and it does the research, it's going to sort of like merge those together again and then it's going to feed it into a LinkedIn content agent. Now you can replicate this for basically any channel, but since I struggle with LinkedIn and I've been trying to figure it out, uh we're going to talk about LinkedIn today. So I have this agent node here again and uh when I create content I like to use Claude 3.7 Sonnet. You probably have used that as well. It's the best writing right now as of recording this is the best writing LLM that exists. Exactly. Exactly. And Claude when you give it the context and the data it's so powerful. Like if if you arm it with enough context it can come up with some pretty incredible things. Yeah. I think the, you know, the problem is people don't give it enough context and then they're like, "This is garbage." Exactly. Exactly. Yeah. Most people, you know, they're opening up Claude or something like that, they're entering in a prompt, and then it spits something out, and they're like, "Ah, I don't like this." Well, you know, you're not going and scraping like all the top performing YouTube videos, tweets, analyzing your own account for brand voice and stuff like that, and then feeding it into the model. So, you really need to, you know, power it with tons of data and tons of context to get the most out of it. So, a few little prompting tips that I have in the in the LinkedIn post agent here. Um, I'm including a brand voice. So, you know, AI uses a lot of fluff. It might still use a little bit of fluff at the end here, but I'm trying my best to give it some guard rails. Uh, write with authentic expertise and direct communication. Uh, be confident and straightforward. Don't be overly formal or academic. speak directly to the reader, avoid like corporate jargon and marketing speak, you know, a bunch of stuff like that. And I've just sort of like through trial and error, you know, listed these different sort of brand guidelines out. Um, and then a few other things. Um, it's taking the research here. This is that JSON output which is basically just a big block of of text all the context that I have created and create a narrative- driven post that gives readers actionable insights and takeaways that will impact their business in positive ways. And then only use data if it's relevant and don't pick topics around like AI marketing tools blindly like make sure it's tied to the context of what we're talking about. All right. So, another thing that AI always does, it always wants to add hashtags and emojis. So, I make sure to like include the instructions like don't use hashtags, um, you know, things like that in here. And then I give it a format for how I want the output to be. So, title, uh, content, uh, things of that nature. And then if you look down at the bottom, I've got more instructions where I'm kind of framing the LLM here. So, you're a LinkedIn content strategist and conversion copywriter. I always include something around like direct response or conversion uh copywriting when I'm using AI to create content. Otherwise, it creates sort of like kind of brand fluff type stuff. And I really want it to like lead people through a journey. I wanted to have a strong hook. I want it to build interest, desire, give some actionable value, and then maybe a clear call to action at the end. Good tip. Yep. I would also say you didn't include it, but what are those dashes that uh AI always puts? M dashes. M dashes. I would say like don't have any M dashes. Yes. M dash overload on the internet right now. And like when people see that, they know it's AI, too. Exactly. And that's a turnoff, right? Big time. Yeah. Yeah. Yeah. Big- time turnoff. Um you know, you want to make it feel as authentic as possible. And sometimes AI does a pretty good job. Other times you need to get in there and edit a little bit. Uh which we'll we'll get to as well. So yeah, just some more instructions like some writing guidelines and things like that. Um you know, often when I'm trying to create prompts for content, I'll like look at some of your content, how you write. I'll I'll feed in some stuff that I've created and some other creators that I really like. And uh you know, especially when it comes to like B2B content, um you know, you need to be more like a creator. That's really kind of the future there. All right, so let's get out of that. And um so it's created our LinkedIn post and it's put it into a Google doc here that you can see. Okay. And then we're working on creating an image uh for our post as well. So this uses the OpenAI image gen model uh that I'm sure everyone has tested. And you can do crazy things like dynamic prompts depending on, you know, the topic of the post and stuff like that. But for our purposes purposes today, I'm just prompting it to create a 3D image communicating an AI system or, you know, something like that to keep it simple. Okay. So, uh, right now we're in the human in the loop step. So, you know, a lot of people don't want to just straight up publish content directly from a model. Um, you know, sometimes like we talked about, we're not quite there yet. So, you know, I work in Slack all the time. Um, most people that are in, you know, startups and marketing probably do. So, what's going to happen at this stage is it's actually going to send me a link to the Google doc in Slack. And I will just show you my Slack because I think this is a pretty cool step. All right. Yep. And there it is. I have a Slack channel set up here where I'm getting these triggers or these Google Docs from Inaden. So, if you open one up, uh, it sent me a draft and I'm able to open up this completed post in a Google doc. So, let's just go through it a little bit. So, it says, "Three ways to scale your marketing without hiring another team." Pretty decent. Uh, sounds actionable. And it's got kind of a personal narrative here. So, I've spent years juggling marketing tasks. that could have been automated. Uh the breaking point when my team missed campaign deadlines because we're buried in repetitive work that machines could handle. Then I discovered inade and it kind of goes through some different ways that you can use it uh for your marketing efforts. So here it's got automate your content distribution pipelines which funny enough that's what we're talking about right now. Uh sort of taking a topic and coming up with a completed final post that is ready to publish. You know, you know what really works well on LinkedIn is photos of yourself. So, I think that if I were to do this workflow, what I would do, and tell me if I can do this, create a Google Drive folder with call it 50 pictures of myself in different poses. You can even use AI to create some of those. Um, and then just say pick a random photo and attach it to the content. Is that possible? Yeah, I think it is. You know, when I was when I was experimenting with this earlier, um I was opening up my LinkedIn and this is one that I actually published. Um if you look at Slack, you can see this approve button. And if I click that, this is going to post right over to uh to my link LinkedIn. So, um you know, this is what happened when I did it earlier. It created this post and then the image generation created this image. Now, to your point, um I think like a personal photo would resonate a lot more. It would feel more natural. It would feel less AI. Um so, yeah, you could store those in a Google Drive and you could probably just have it randomly select uh from that folder and pair it up with the posts here. So, point is though, you know, you can do all of this research. You can get a highly relevant post. You can even create the image. You can have this fully formatted and in one button uh you can you can publish directly to whatever social platform you want. And the most important point is these are validated social posts. These are not social posts that you have no idea if they're going to get a like or a comment because it's scraped YouTube because it's scraped X and it's got all that data. the chances of you creating content that's going to resonate with people is probably 10 or 50x. Yeah, absolutely. So, remove the guess work, the guesswork and yeah, use like real validation uh from things that have already performed and then just make it your own, you know, like you don't have to guess and you can test multiple of these to see which ones work if you want. The ones that you don't like, you can delete them. You can double down on the ones to get some good early data and then you can even, you know, go and use it for other channels as well. Anything else you wanted to tell folks? Um, I thought this was kind of funny. So, someone actually commented like such a solid example and uh, you know, they like the post and I was like, now the question is, did a did AI write it? So, I think that this passed the touring test. So, pretty valuable uh, little workflow here. Very cool. Um, dude, always a pleasure having you on the pod spilling the sauce. You could have kept this to yourself, but you didn't. uh you came on here and shared it for free. So I appreciate that. I am going to include where uh where to find the boring marketer on X and YouTube for more content like that. Um anything else you want to plug? Yeah, one quick note. Um so a lot of people need like a solid starter workflow that they can upload into NAD without having to go through the logic and trying to build all this out. So I'm going to share a JSON file that has this complete workflow. You can download the file, you can upload it into N in N8, you can make it your own and start learning. Like the best way to just get a handle on all this workflow stuff is playing around with it, tinkering, you know, seeing what kind of output you get and then trying to optimize it uh based on the data that you're getting. So, uh we'll share the link, but it's templates.viarketer.comgreg thevibemarketer.comgreg and people just enter their email. We'll send that over to you and you can get started like right away and it's free. It's totally free. We're just gonna give it away. We're gonna give the sauce. All right. I appreciate I appreciate you. Of course. Thanks for having me, Greg. All right. Later. See you.
+
+---
+## Full Transcript 
+Everywhere you look in the B2B and SAS 
+ marketing space right now, people are 
+ saying SEO is dead. And usually the 
+ argument goes, no one uses Google, 
+ everyone uses chat GPT instead. And 
+ because of all this noise, a lot of 
+ companies are starting to think it's 
+ time to abandon ship. But hold on a sec. 
+ New research from Graphite and Similar 
+ Web analyzed 40,000 of the biggest 
+ websites in the US, and the findings 
+ completely contradict what a lot of 
+ folks are saying. So, in this video, I'm 
+ going to break down exactly what the 
+ data shows, debunk the myths that are 
+ spreading like wildfire, and I'll share 
+ what's actually going to change for SAS 
+ SEO in 2026, so you can prepare and set 
+ yourself up for success. Let's dive in. 
+ So, thanks to Similar Web and Graphite, 
+ let's dig into what the data actually 
+ shows. So, the myth is that SEO traffic 
+ is down 25% or more. And you may have 
+ seen headlines on LinkedIn news outlets 
+ or otherwise claiming that traffic's 
+ dropped anywhere from 25% to 60%. But 
+ the problem here is these organic 
+ traffic numbers are often based on 
+ flawed research. And these are often 
+ super small sample sizes with tiny 
+ surveys of just 10 to 20 websites. And 
+ the problem with surveys is that our 
+ memories as humans are often unreliable. 
+ And those that do respond to surveys 
+ around AI search tend to be those early 
+ adopters to LLMs. meaning they're using 
+ LLMs way more than average and the data 
+ gets skewed. All right, so let's break 
+ down the numbers from Graphite and 
+ Similar Web's report analyzing 40,000 of 
+ the biggest sites in the US. First off, 
+ SEO traffic is only down 2.5% yearonear, 
+ not 25%. And that was an overestimation 
+ of around a,000% with a lot of the 
+ claims and studies floating around. And 
+ this actually aligns with what Google 
+ said back in August 2025 where they 
+ mentioned overall organic click volume 
+ had been relatively stable yearon-year. 
+ Traffic to search engines went up 6.9% 
+ from 2019 to 2020. It decreased slightly 
+ in 2022 by about 1.5% and has been 
+ relatively flat since 2023. In fact, in 
+ 2025, traffic increased slightly to 
+ Google at plus.8%. And across search 
+ engines as a whole, it increased plus 
+ 4%. And lastly, visitors to Google 
+ actually grew 1.35% when you compare 
+ quarter 4, 2025 to quarter 4, 2024. So 
+ all the LLM and AI search hype to one 
+ side, let's remember that Google is 
+ still a demand capture beast for driving 
+ leads, demos, signups, and revenue. And 
+ if we break down some earlier research 
+ from Datas and Spark Toro, Google 
+ processes over 14 billion searches each 
+ and every day. Yep, I said 14 billion 
+ searches each and every day. Whereas 
+ Chat GBT handles around 37.5 million 
+ chatike prompts each and every day. This 
+ tells us Google gets around 373 
+ times more searches than chat GBT. So 
+ even if we combine the daily prompts 
+ across chat GBT, Perplexity, Claude, 
+ Copilot, and Gemini, that total combined 
+ would still be under 2% of the total 
+ search market. Meaning Google maintains 
+ a 93.57% 
+ market share of search. Now, at Breaking 
+ B2B, we deal with a lot of SAS clients 
+ selling to technical users. And the 
+ thing to remember is a lot of these 
+ folks are using AI search, whether 
+ that's Google AI overviews, Chat GBT or 
+ other LLMs as a big part of their 
+ research right through to evaluation and 
+ consideration stages. So doing that 
+ early research trying to work out how to 
+ fix maybe the problem they have, trying 
+ to then eventually assess the right type 
+ of vendor for the problem or maybe 
+ they're looking to move away from their 
+ current vendor. So they're trying to 
+ weigh up what's the best software 
+ solution or product that's going to hit 
+ their exact needs, be within their price 
+ point, tackle the problems they're 
+ trying to solve, and much, much more. 
+ And what we're seeing is a lot of the 
+ inbound demo requests and similar that 
+ come in from folks that mention chat GPT 
+ or other AI search tools in the how did 
+ you hear about us field on inquiry forms 
+ or mention that on the sales call when 
+ the rep asks what was their journey to 
+ stumbling across us today. A lot of 
+ those leads do come in more qualified 
+ because they've done so much more 
+ research beforehand. So the point is AI 
+ search still super important and can 
+ drive some super qualified inbound 
+ opportunities. Now before I get into 
+ what's actually changing and how you can 
+ prepare if you want to start driving 
+ pipeline from SEO and AO as quick as 90 
+ days then grab a call with me over at 
+ breakingb2.com. 
+ We can chat through exactly where you're 
+ at, where you'd like to get to, and see 
+ if we're a good match to start driving 
+ pipeline mindshare and revenue through 
+ Google organic and AI searches. Head 
+ over to breakingb.com or hit the link in 
+ the description below to grab a call 
+ with me. Right, back to the video. So, 
+ if SEO ain't dead yet, what about Google 
+ AI overviews stealing all of our clicks? 
+ And this is another big concern that we 
+ hear all the time across sales calls 
+ with SAS companies. And yes, Google AI 
+ overviews does decrease click-through 
+ rates by about 35% when they appear. But 
+ what many people are missing is that 
+ Google AI overviews only appear around 
+ 30% of the time, not 50% like some 
+ studies are claiming. And these mostly 
+ impact informational keywords, not 
+ commercial and high sales intent ones. 
+ And digging into an example of 
+ anformational keyword that might trigger 
+ a Google AI overviews. That might be 
+ something like how to build a sales 
+ process. And usually these are topfunnel 
+ searches where someone's nowhere near 
+ ready to speak to sales or have a sales 
+ conversation. they're super early in 
+ their research stage and don't really 
+ have that intent. They're just trying to 
+ learn more about the topic or industry. 
+ And what this means is when prospects 
+ are searching for these questions like 
+ how to do X or what is Y or something 
+ fairly simple queries, they get 
+ instantly answered by Google AI 
+ overviews, meaning people get that 
+ response straight away above the fold in 
+ Google search, meaning they're super 
+ unlikely to click through to one of the 
+ blue links and then go through to a web 
+ page because they're getting the answer 
+ straight away. That's why we always 
+ recommend starting with bottom of the 
+ sales funnel when it comes to SEO and AI 
+ search. What's a dream client actually 
+ searching when they need your software 
+ solution, comparing options, comparing 
+ vendors looking to move away from their 
+ incumbent or have a very crisp and 
+ specific problem, use case or 
+ integration that they need to solve 
+ because they're in buying mode, meaning 
+ they have that high sales intent. Plus, 
+ Google AI overviews are less likely to 
+ trigger. So, they'll be more likely to 
+ click through to an organic search 
+ result on your website. And likewise, if 
+ you're using tools like chat GPT, 
+ instead of getting that instant answer 
+ to that topfunnel query, if you're going 
+ for a bottomfunnel specific search where 
+ someone's looking to evaluate software, 
+ move away from a current vendor or do a 
+ deep dive into a specific solution, 
+ that's more likely to trigger something 
+ called grounding where chat GBT will 
+ actually do a deep dive search using 
+ systems like Google and otherwise and 
+ then giving you actual branded results. 
+ So giving you company recommendations, 
+ pulling through citations from external 
+ sites and beyond. And one thing to 
+ remember is Google's featured snippets 
+ were kind of already doing this. Before 
+ Google AI overviews, Google showed the 
+ featured snippets and many times those 
+ also impacted click-through rates. 
+ Featured snippets used to appear around 
+ 20% of the time. So in many cases, 
+ Google AI overviews essentially replaced 
+ featured snippets. Therefore, the net 
+ impact isn't actually as dramatic as 
+ people are making out. And another myth 
+ is that Google's pushing more and more 
+ clicks to ads with Google paid search. 
+ You've probably seen already that 
+ sponsored ads are taking up more and 
+ more real estate, especially at the top 
+ of page one of Google. But even so, the 
+ data shows that many people still want 
+ to click through to the organic 
+ non-sponsored results. And the research 
+ shows that 90% of all clicks are still 
+ going through to the organic listings, 
+ meaning 10% are going through to 
+ sponsored ads. So the ratio shifted 
+ slightly here by around 7%. But organic 
+ clicks are still 10 times more than paid 
+ clicks. So what's actually changing in 
+ 2026 that your SAS company needs to 
+ prepare for? Search is changing for sure 
+ is becoming more and more about mind 
+ share and being consistently the brand 
+ of choice. Google AI overviews, the AI 
+ mode, Chat GBT, Perplexity, and many 
+ more AI search tools and LLMs. They all 
+ want to keep you on platform for as long 
+ as physically possible without the need 
+ of having to click through to an 
+ external website. And this is why many 
+ SAS websites are seeing clickthroughs 
+ steadily go down whilst impressions are 
+ going up even more so if historically 
+ you've focused on top offunnel 
+ moreformationalbased content. And this 
+ is why in the world of LLMs and AI 
+ search, having your brand mentioned 
+ consistently when dream clients are in 
+ market for your software and solutions 
+ is absolutely crucial. So how are we 
+ seeing the buyer journey change right 
+ now? Well, with the drop through clicks, 
+ a lot of prospects are doing a ton of 
+ their research and evaluation all 
+ through the AI search tools themselves. 
+ meaning they're looking for solutions to 
+ their expensive problems, evaluating 
+ vendors, looking at pros and cons, 
+ checking pricing, and much, much more. 
+ And once they grab all the information 
+ they need through AI search, they might 
+ type in your brand name on Google, then 
+ click through to your site, so it shows 
+ as branded search. Or they might search 
+ your website URL directly and go 
+ straight to your homepage. And by this 
+ stage, they may be fairly late in their 
+ buying journey. So they might flick 
+ through your website, check your pricing 
+ again, check your results, case studies, 
+ check any more information they need 
+ around your product or solution, and 
+ then grab a call, grab a demo, or sign 
+ up. And this is why many SAS companies 
+ are seeing branded search volumes go up, 
+ as well as direct traffic. And that's 
+ why it's important to know a lot of the 
+ time SEO and AEO is doing all the hard 
+ work here, yet the end conversion is 
+ showing up as branded search. That's why 
+ it's super important on your inquiry, 
+ demo forms, signup forms, and more to 
+ ask, "How did you hear about us?" I'd 
+ even say to ask it again on sales 
+ conversations on that initial discovery 
+ or demo call. Your reps can ask 
+ something like, "What was your full 
+ journey to stumbling across us today?" 
+ And then, of course, that could be 
+ transcribed through Gong, Fathom, or 
+ another sales recording tool added to 
+ your CRM. And that way you can start 
+ flagging when folks are coming in 
+ through chat GBT, Google or other AI 
+ search tools. The line between search 
+ engines and AI is definitely blurring 
+ and that's probably why many are calling 
+ it search everywhere optimization now. 
+ And as we've talked about, Google are 
+ adding more AI overviews and have 
+ launched their own AI mode interface, 
+ essentially their version of chat GPT. 
+ OpenAI is coming up with their own 
+ browser Atlas. So, it's likely that 
+ traditional search and LLMs are going to 
+ see more and more overlap in the years 
+ to come. and your B2B buyers are 
+ probably doing a mix of AI search and 
+ traditional Google search as part of 
+ their research and evaluation process. 
+ Especially if you're selling to 
+ techsavvy dream clients, they're 
+ probably using AI search throughout the 
+ whole process. So, what should your SAS 
+ company do to start crushing SEO and AAO 
+ in 2026 and beyond? As we've mentioned 
+ from this report, Google is still a 
+ demand capture beast. So, certainly 
+ don't neglect it. And the good news is 
+ what we're seeing across dozens of SAS 
+ clients at Breaking B2B is that classic 
+ bottom offunnel pipeline focused SEO 
+ still serves a solid foundation to get 
+ recommended and cited in AI searches. 
+ Going after money keywords and money 
+ pages like best X software, best X tool 
+ for Y industry, competitor alternatives, 
+ competitor pricing, competitor reviews, 
+ competitor one versus competitor 2 
+ versus you. really exhausting every way 
+ a dream client could search for your 
+ software or solution when they need it. 
+ Now, every way they could compare a 
+ vendor, if they're in that evaluation 
+ stage, against another vendor and then 
+ position your solution as the one of 
+ choice with a fair summary and showing 
+ how you differentiated and why folks 
+ actually choose you. And of course, 
+ appearing when folks are frustrated with 
+ their current solution or software, 
+ showing exactly where you can hit those 
+ current pain points. And again, being 
+ fair on where you're a poor fit, where 
+ you're a great fit, and why customers 
+ choose you, backed by that allimportant 
+ customer research, it's something we 
+ very much practice what we preach at 
+ breaking B2B. So, one of our money 
+ keywords is best SAS SEO agencies. And 
+ you can see here on Google organic 
+ search, if you're watching, we've got 
+ our listicle ranking top right now in 
+ the UK as well as oftent times in the US 
+ and other regions, too. Right now, it's 
+ worth noting that listicles rank 
+ exceptionally well on both classic 
+ Google organic AI search and LLMs, 
+ especially if you're trying to show up 
+ for any bottom of funnel best x software 
+ tools or platform based queries as well 
+ as competitor alternatives and similar 
+ searches. AI overviews absolutely love 
+ to pull from these listical based 
+ articles. So really making sure that you 
+ build these out on your site for each 
+ and every variation of the software that 
+ your dream clients could search for as 
+ well as those alternative keywords is 
+ super powerful for both classic Google 
+ organic and AI searches. And if we do a 
+ similar search on chat GBT, we can see 
+ breaking B2B mentioned here near the top 
+ and it's actually pulling the citation 
+ from our own listical of the top 10 best 
+ SAS SEO agencies. So, it shows you how 
+ powerful really controlling the 
+ narrative and making sure on your own 
+ website you're building out all of these 
+ money pages. And likewise for one of our 
+ SAS clients, if we search on Google best 
+ proposal software, we can see Proposify 
+ mentioned right at the top in the AI 
+ overview as well as organic search and 
+ the classic rankings. And likewise, if I 
+ do a similar search on chat GBT, I can 
+ see Proposify mentioned right here at 
+ the top. So, classic SEO still 
+ important. It's super important to have 
+ a solid foundation on your website. Once 
+ you've worked out all those money 
+ keywords that dream clients could 
+ search, not when they're in information 
+ gathering mode, but when they're ready 
+ for that sales conversation. And really 
+ making sure your website is a 24/7 sales 
+ rep. Having all those pages, whether 
+ that's industry pages, use case pages, 
+ integration pages, service based and 
+ feature pages, listicles for all the 
+ types of variants of software tools and 
+ platforms that folks could be searching 
+ for. the competitor pages as well as the 
+ classic pages for things like pricing, 
+ about, results, case studies, and more. 
+ Really making sure you've got those 
+ lines in the water as dedicated pages, 
+ which are not just there for the sake of 
+ being there, but they follow SEO best 
+ practices. So, they're written to really 
+ talk about the problem someone might be 
+ facing, the impact of that problem, why 
+ they should consider choosing you, how 
+ you're differentiated, showing your 
+ product in action, FAQs, and much, much 
+ more. Essentially acting as a 24/7 sales 
+ rep, like we mentioned. And another big 
+ component of AI search or AEO answer 
+ engine optimization is brand mentions 
+ which bridges the gap between classic 
+ SEO and AEO. So a lot of the time SAS 
+ marketing leaders and founders will ask 
+ me Sam how can we quickly show up in AI 
+ search results top. I'll say super easy 
+ just go back in time 10 to 15 years and 
+ build a brand. And that's why so many of 
+ the big players in your niche or your 
+ category have great visibility on AI 
+ search and LLMs because they've got so 
+ many external niche relevant websites 
+ mentioning their brand. That could be 
+ review sites, press, forums or many 
+ more. But the good thing is brand 
+ mentions are going to help you both in 
+ Google organic search as well as AI 
+ search and LLMs. And backlinks 
+ definitely still have their place 
+ certainly for boosting those hard to 
+ rank money keywords on Google organic. 
+ And a big one here from a SAS lens is 
+ once you've nailed everything on your 
+ own website, really control the 
+ narrative with all the relevant pages, 
+ articles, listicles that make sense from 
+ a high commercial intent standpoint is 
+ you want to start being mentioned on 
+ external websites that are building 
+ these listicles. So any other websites 
+ that are being cited already in Google 
+ organic, in overviews, in chat GBT and 
+ similar, you want to get featured top 
+ three placements in those listicles 
+ evaluating software tools platforms like 
+ yours. And you can actually do this with 
+ manual outreach. Like at breaking B2B, 
+ we reached out to 10 15 competitors that 
+ were building these listicles. We 
+ actually got a bunch of placements, many 
+ of which we did trades, swaps or 
+ similar. A lot of the times you can get 
+ featured placements in these for value 
+ exchanges and yes, some will be 
+ payto-play too. And the great thing 
+ about getting placements in these 
+ external listicles that are being 
+ mentioned in Google AI views, chat GBT, 
+ and more is you essentially get three 
+ hits in one. So you get your brand 
+ mention, you get your backlink, but 
+ because of that top three placement, you 
+ could also get direct leads from folks 
+ stumbling upon that listical article and 
+ they might even inquire directly or grab 
+ a sign up there and then. And another 
+ nice example for our client Fibler, if 
+ we do quite a specific search, so Hockey 
+ Stack alternatives for LinkedIn, 
+ someone's not going to search this for 
+ fun. They're probably having quite high 
+ sales intent looking for a specific 
+ software solution. We can see that Fiba 
+ are mentioned number one here in the AI 
+ overviews. And we can also see their 
+ listicle mentioned here that you can 
+ click through to for the top eight 
+ hockey stack alternatives. And outside 
+ of this, LLM's also citing from other 
+ places like Reddit threads where folks 
+ could be evaluating or looking for 
+ advice on software in your industry. 
+ Industry blogs and publications like we 
+ mentioned just now. Review sites like 
+ G2, Capter Terra, or whatever review 
+ site is relevant for your industry. 
+ Podcasts along with the transcripts. 
+ That's why I often recommend guesting on 
+ niche relevant podcasts as a huge SEO 
+ win for both brand mentions, visibility, 
+ direct lead flow, as well as backlinks 
+ and that SEO and AI search value. 
+ YouTube videos can often get pulled up 
+ in AI search plus super good for 
+ embedding on relevant website pages for 
+ classic Google organic search. The key 
+ here is to think of SEO and AI search 
+ not as just one silo channel, but really 
+ thinking of your B2B and SAS marketing 
+ as an ecosystem and steadily showing up, 
+ building trust, entertaining, educating 
+ your dream clients. So when they really 
+ need the solution, when they have the 
+ problem you solve or when they're 
+ evaluating options, you're the brand of 
+ choice. And depending on the size and 
+ resources that you've got for your own 
+ marketing team, I'd say to do this on a 
+ priority basis. So, one, working out 
+ those money keywords and prompts that 
+ you really need to nail down. Then 
+ making sure your website is bestin-class 
+ with all those money keywords and pages 
+ that really address everything we've 
+ discussed. Then steadily looking to do 
+ those offsite activities and doing it on 
+ a priority basis. So depending on 
+ resources that you've got in house or 
+ cash that you can assign to work with a 
+ team or agency, tackling external 
+ channels or platforms one by one really 
+ on what's going to have the most impact. 
+ And ideally, it's backed by customer 
+ research. Starting with those no-brainer 
+ external channels that your dream 
+ clients go to to get trusted information 
+ from. And a few quick best practices to 
+ help you get best bang for buck on 
+ classic Google organic search and AI 
+ search results. So, here's a listical 
+ article we recently worked on for Fiba. 
+ So, top eight hockey stack alternatives 
+ and a few things. So, making sure you've 
+ got the publish date. You can also add 
+ the author, maybe an image of the author 
+ bio, having the money keyword within the 
+ H1 itself. So we've got Hockey Stack 
+ alternatives and also having that money 
+ keyword within the metatitle and the 
+ description in your URL. Actually having 
+ that money keyword there too. So in this 
+ case/hockey stack hyphen alternatives 
+ adding structured data to the page. We 
+ usually do a quick summary of what the 
+ article is about and again AI tools like 
+ to pull from this. We'll do a short list 
+ table again that can be pulled into AI 
+ searches. do a brief intro like why you 
+ should look for in this case an 
+ alternative why trust us again this 
+ helps with being pulled into AI searches 
+ visual social proof as folks are 
+ flicking through so in this case we've 
+ got a highlighted testimonial with the 
+ client's name and their company as this 
+ is an alternative based listical we'll 
+ talk about the competitor so in this 
+ case what is Hockey Stack a visual of 
+ their platform and a quick rundown then 
+ why you should consider a Hockey Stack 
+ alternative so you can see all the 
+ headings are broken down H2s H3s and 
+ then we'll pull from customer research 
+ so that might be taking reviews choose 
+ from G2. Then we'll have a full table of 
+ the alternatives positioning as Fibler 
+ with the number one choice. And again, 
+ AI searches can pull from this data. 
+ We'll position Fibler as number one. Not 
+ focused on showing how amazing and 
+ awesome we are, but actually backing it 
+ again by that customer research where 
+ we're a great fit, we're a poor fit. 
+ Show the product in action. Ideally, 
+ show the aha moment of when your product 
+ clicks into play. talking about some of 
+ the key features that Dream Clients care 
+ about, where we're differentiated, 
+ reviews and ratings and pricing, and 
+ then a fair summary of the other tools 
+ on the market. And you'll also see here 
+ we've got a fixed call to action on the 
+ side of the page. So, no matter where 
+ you scroll, you can see that call to 
+ action and easily, in this case, grab a 
+ sign up. Yours could be book a call or 
+ demo. It's also worth doing five or so 
+ internal links to relevant pages. And 
+ the other thing I'd say is when you're 
+ building articles or other types of 
+ content for your site, make sure they 
+ act as a sales rep. So you'll see 
+ through this Fiba one we went through, 
+ there's plenty of visuals, examples, 
+ screenshots of the product in action, 
+ social proof, and more. So one, it's 
+ super engaging for folks if they're 
+ flicking through it on their PC or their 
+ mobile. Two, they can actually build 
+ confidence that your brand is trusted 
+ and you can deliver on what they're 
+ looking for. And three, you're actually 
+ going to solve the issues, frustrations, 
+ or problems they're looking to solve. 
+ and then make it nice and easy for them 
+ to get in touch, grab a sign up or grab 
+ a demo. You can also add relevant FAQs 
+ to pages. So, if there's questions that 
+ you often get asked on sales calls or 
+ customer success or support calls on the 
+ topic, those are really useful as those 
+ can attract longtail queries and prompt 
+ and also act as a sales enabler. So, if 
+ folks already get the answer to their 
+ question on page, they might be more 
+ likely to get in touch. And I'd 
+ recommend regularly reviewing your 
+ bottom offunnel commercial content, 
+ whether that's industry pages, landing 
+ pages, product pages, commercial 
+ listical articles, or otherwise, keeping 
+ them fresh, up to date, making sure 
+ you're blowing out any other pages that 
+ are ranking top on the internet, making 
+ sure yours is super useful, adding 
+ relevant stats. If you've got any unique 
+ industry research, that can be a great 
+ leverage point for being cited and 
+ mentioned in AI searches. Plus, LLMs 
+ love to pull from freshly updated 
+ content. And there we have it. If you 
+ want help making SEO and AAO a top 
+ pipeline driver for your SAS company, 
+ why not grab a call with me over at 
+ breaking B2B.com. Often times SAS 
+ companies see pipeline flowing as quick 
+ as 90 days from working with us. So, 
+ book your call in the link in the 
+ description below or head over to 
+ breaking B2B.com. Or if you're not ready 
+ yet, check out my 90 days torevenue 
+ video course and playbook. Head over to 
+ breakingb2tb.com and hit the newsletter 
+ tab to unlock it instantly. Or you can 
+ check out the breaking B2B podcast for 
+ weekly interviews with SAS marketing 
+ leaders. And with that, I shall catch 
+ you on the next one. Cheers.
