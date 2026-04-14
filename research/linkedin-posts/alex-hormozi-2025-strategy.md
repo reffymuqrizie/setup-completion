@@ -1,4 +1,4 @@
-# LinkedIn Post RResearch: $4M Content Strategy for 2025
+# LinkedIn Post Research: $4M Content Strategy for 2025
 **Author:** Alex Hormozi
 **Topic:** Scaling B2B Content via Volume and Distribution
 **Source Link:** [Alex Hormozi LinkedIn Post](https://www.linkedin.com/posts/alexhormozi_my-4000000-content-strategy-for-2025-activity-7251286824633970688-maaR/)
