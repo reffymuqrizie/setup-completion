@@ -20,7 +20,8 @@
   * *Solution*: Pivoted to utilizing GitHub's web interface for repository management to ensure project delivery and documentation accuracy despite hardware limitations.
 ## 🤖 Research Process
 This repository was built using a **Human-AI Hybrid Workflow**. I utilized **YoutubeTranscript.io** for data extraction and **Gemini 3 Flash** for strategic synthesis. This allowed for the rapid processing of over 5 hours of expert content into actionable documentation in a fraction of the time required by traditional methods.
-  
+## 📖 Strategic Playbook
+[Click here to view the Full B2B SaaS Content Playbook](./PLAYBOOK.md)  
 
 ### Final Link
-GitHub Repository: (https://github.com/reffymuqrizie/setup-completion/edit/main/README.md)
+GitHub Repository: (https://github.com/reffymuqrizie/setup-completion)
